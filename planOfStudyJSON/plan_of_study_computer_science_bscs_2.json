@@ -1,0 +1,217 @@
+{
+    "plan_name": "Sample Plan of Study: Four Years, Two Co-ops in Summer 2/Fall",
+    "data": [
+        {
+            "name": "Year 1",
+            "terms": [
+                {
+                    "type": "FALL",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 1200
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 1800
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 1802
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 2500
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 2501
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "ENGW",
+                                "number": 1111
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "MATH",
+                                "number": 1365
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "SPRING",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 2510
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 2511
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 2810
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "SUMMER 1",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 3000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "SUMMER 2",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "MATH",
+                                "number": 1341
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Year 2",
+            "terms": [
+                {
+                    "type": "FALL",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 1210
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 3500
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 3501
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 3650
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "SPRING",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 3800
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "SUMMER 1",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "EECE",
+                                "number": 2322
+                            }
+                        },
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "EECE",
+                                "number": 2323
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Year 3",
+            "terms": [
+                {
+                    "type": "SUMMER 1",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "ENGW",
+                                "number": 3302
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Year 4",
+            "terms": [
+                {
+                    "type": "SPRING",
+                    "items": [
+                        {
+                            "type": "COURSE",
+                            "data": {
+                                "major": "CS",
+                                "number": 4530
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
